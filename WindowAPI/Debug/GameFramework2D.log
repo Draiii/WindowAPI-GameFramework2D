@@ -1,0 +1,451 @@
+﻿  Astar.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\Astar.cpp(139,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\Astar.cpp(132,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\Astar.cpp(142,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\Astar.cpp(144,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\Astar.cpp(178,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\Astar.cpp(187,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\Astar.cpp(240,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\Astar.cpp(250,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  bullet.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(52,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(66,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(66,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(72,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(72,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(91,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(91,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(97,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(97,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(156,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(170,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(188,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(188,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(204,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(204,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(262,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(275,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(275,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(289,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\bullet.cpp(289,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cam.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\cam.cpp(71,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\cam.cpp(71,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  dungeonSecen.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.h(109,99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.h(109,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(53,36): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(54,30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(55,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(55,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(66,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(67,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(68,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(68,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(64,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(215,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(218,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(223,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(228,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(233,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(238,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(243,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(248,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(253,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(259,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(262,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(267,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(272,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(277,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(282,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(287,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(292,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(297,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(304,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(307,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(312,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(317,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(322,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(327,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(332,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(337,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(342,75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(737,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(737,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(741,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(741,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(778,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(778,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(782,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(782,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(869,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(870,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(882,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(897,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(898,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(1215,19): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(1216,20): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(1217,18): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\dungeonSecen.cpp(1218,21): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemy.cpp
+  enemyManager.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\enemyManager.cpp(37,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\enemyManager.cpp(56,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\enemyManager.cpp(65,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\enemyManager.cpp(69,4): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\enemyManager.cpp(103,64): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\enemyManager.cpp(103,26): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gameNode.cpp(87,6): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gameNode.cpp(88,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  gdipImage.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(63,16): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(64,16): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(95,16): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(96,16): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(136,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(139,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(139,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(152,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(167,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(182,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(185,92): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(185,67): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(199,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(203,92): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(203,67): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(215,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(230,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(259,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(265,12): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(264,12): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(291,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(326,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(360,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(394,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(401,56): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(401,25): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(430,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(438,56): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(438,25): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(477,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(502,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(527,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(530,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(530,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(555,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(576,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(579,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(579,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(590,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(613,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(616,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(616,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(638,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(641,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(641,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(658,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(661,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(661,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(672,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(695,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(698,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(698,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(720,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(723,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(723,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(748,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(751,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(751,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(771,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(803,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(806,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(806,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(837,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(840,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(840,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(866,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(869,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(869,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(889,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(921,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(924,59): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(924,46): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipImage.cpp(955,15): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gdipManager.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipManager.cpp(257,65): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\gdipManager.cpp(257,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gdipTestScene.cpp
+  image.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(115,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(903,41): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(904,43): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(941,41): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(942,43): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(989,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(997,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(998,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(1017,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(1016,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(1040,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(1048,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(1049,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(1072,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\image.cpp(1071,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  imageTest.cpp
+  iniData.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\iniData.cpp(38,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\iniData.cpp(32,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\iniData.cpp(35,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\iniData.cpp(50,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\iniData.cpp(53,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\iniData.cpp(68,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\iniData.cpp(70,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  iniTestScene.cpp
+  introSecen.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\introSecen.cpp(11,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\introSecen.cpp(13,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\introSecen.cpp(123,17): error C2102: '&'에 l-value가 있어야 합니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\introSecen.cpp(139,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  isometricTest.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\isometricTest.cpp(99,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\isometricTest.cpp(105,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  keyManager.cpp
+  loading.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\loading.cpp(44,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\loading.cpp(45,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\loading.cpp(80,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\loading.cpp(81,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\loading.cpp(170,20): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\loading.cpp(195,64): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\loading.cpp(195,57): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\loading.cpp(207,69): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\loading.cpp(207,62): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\loading.cpp(220,54): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\loading.cpp(220,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  loadingScene.cpp
+  코드를 생성하고 있습니다...
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\iniData.cpp(59): warning C4172: 지역 변수 또는 임시: data의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  mainGame.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\tileNode.h(5,1): warning C4005: 'TILEX': 매크로 재정의
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\isometricTest.h(5,1): message : 'TILEX'의 이전 정의를 참조하십시오.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\tileNode.h(6,1): warning C4005: 'TILEY': 매크로 재정의
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\isometricTest.h(6,1): message : 'TILEY'의 이전 정의를 참조하십시오.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\tileNode.h(7,1): warning C4005: 'TILESIZEX': 매크로 재정의
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\isometricTest.h(8,1): message : 'TILESIZEX'의 이전 정의를 참조하십시오.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\tileNode.h(8,1): warning C4005: 'TILESIZEY': 매크로 재정의
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\isometricTest.h(9,1): message : 'TILESIZEY'의 이전 정의를 참조하십시오.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.h(109,99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.h(109,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  maptoolScene.cpp
+  minion.cpp
+  monster_1.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(17,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(17,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(47,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(47,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(73,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(73,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(20,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(50,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(76,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(114,99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(114,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(115,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(116,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(158,125): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(158,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(166,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(166,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(167,56): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(168,56): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(206,119): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(206,82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(215,99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(215,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(216,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(217,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(259,125): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\monster_1.cpp(259,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  myAstar.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.h(109,99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.h(109,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(16,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(16,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(78,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(78,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(197,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(272,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(276,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(278,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(346,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(354,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(266,7): warning C4101: 'str2' :참조되지 않은 지역 변수입니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(412,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(421,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(486,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.cpp(496,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  myPlayer.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(16,31): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(25,109): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(25,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(29,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(29,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(40,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(40,68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(44,97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(44,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(51,107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(51,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(57,105): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(57,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(71,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(71,68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(173,143): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(173,83): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(174,131): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(174,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(177,96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(177,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(178,97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(178,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(199,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(199,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(203,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(203,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(205,94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(205,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(207,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(207,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(209,94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(209,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(211,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(211,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(213,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(213,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(215,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(215,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(218,96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(218,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(220,96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(220,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(222,97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(222,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(238,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(238,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(252,97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(252,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(254,111): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(254,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(256,131): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(256,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(430,36): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(431,36): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(433,30): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(434,30): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(486,91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(486,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(488,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(488,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(527,117): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(527,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(493,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(747,16): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(748,16): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(769,12): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(772,12): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(778,12): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(781,12): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(787,12): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(790,12): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(796,12): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(799,12): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myPlayer.cpp(809,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  optionUI.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\optionUI.cpp(21,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\optionUI.cpp(21,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\optionUI.cpp(25,100): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\optionUI.cpp(25,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\optionUI.cpp(29,109): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\optionUI.cpp(29,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\optionUI.cpp(33,79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\optionUI.cpp(33,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\optionUI.cpp(37,101): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\optionUI.cpp(37,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\optionUI.cpp(41,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\optionUI.cpp(41,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pixcelCollisionScene.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\pixcelCollisionScene.cpp(14,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\pixcelCollisionScene.cpp(14,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\pixcelCollisionScene.cpp(17,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\pixcelCollisionScene.cpp(37,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\pixcelCollisionScene.cpp(37,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\pixcelCollisionScene.cpp(39,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\pixcelCollisionScene.cpp(45,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\pixcelCollisionScene.cpp(52,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\pixcelCollisionScene.cpp(70,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  player.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(21,87): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(21,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(84,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(85,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(100,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(101,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(102,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(116,20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(117,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(118,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(100,18): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(101,18): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(102,18): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(127,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(127,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(143,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(145,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\player.cpp(149,5): error C2102: '&'에 l-value가 있어야 합니다.
+  playerData.cpp
+  progressBar.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\progressBar.cpp(10,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\progressBar.cpp(11,12): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\progressBar.cpp(25,75): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\progressBar.cpp(25,72): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\progressBar.cpp(26,72): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\progressBar.cpp(26,69): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\progressBar.cpp(21,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\progressBar.cpp(22,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\progressBar.cpp(46,9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  randomFunction.cpp
+  sceneManager.cpp
+  sceneTest.cpp
+  sceneTest1.cpp
+  soundManager.cpp
+  soundTestScene.cpp
+  timeManager.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\timeManager.cpp(105,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\timeManager.cpp(108,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  txtData.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\txtData.cpp(21,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\txtData.cpp(37,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\txtData.cpp(41,13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\txtData.cpp(40,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\txtData.cpp(43,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\txtData.cpp(74,10): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\txtData.cpp(76,26): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  util.cpp
+  코드를 생성하고 있습니다...
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\txtData.cpp(48): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  winMain.cpp
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\tileNode.h(5,1): warning C4005: 'TILEX': 매크로 재정의
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\isometricTest.h(5,1): message : 'TILEX'의 이전 정의를 참조하십시오.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\tileNode.h(6,1): warning C4005: 'TILEY': 매크로 재정의
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\isometricTest.h(6,1): message : 'TILEY'의 이전 정의를 참조하십시오.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\tileNode.h(7,1): warning C4005: 'TILESIZEX': 매크로 재정의
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\isometricTest.h(8,1): message : 'TILESIZEX'의 이전 정의를 참조하십시오.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\tileNode.h(8,1): warning C4005: 'TILESIZEY': 매크로 재정의
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\isometricTest.h(9,1): message : 'TILESIZEY'의 이전 정의를 참조하십시오.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.h(109,99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\스톤샤드 포폴(12_09)\스톤샤드 포폴\스톤샤드_GDI플러스 {main}\WindowAPI\myAstar.h(109,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
